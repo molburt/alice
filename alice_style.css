@@ -44,19 +44,34 @@ a:visited {
   border: 2px solid #302012;
 }
 
-.turnPageRight {
-  text-align: right;
-  display: inline-block;
+.bottomNavBar {
+  margin-bottom: 20px;
+  width: 600px;
+  margin-left: 25%;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #ede1b8;
+  color: #302012;
+  border: 2px solid #302012;
 }
 
-.turnPageLeft {
+/*.turnPageLeft {
   text-align: left;
   display: inline-block;
 }
 
+.currentPage {
+  text-align: center;
+  display: inline-block;
+  font-style: italic;
+}
+
+.turnPageRight {
+  text-align: right;
+  display: inline-block;
+}*/
+
 .poem {
-  margin-left: 50px;
-  width: 400px;
   font-style: italic;
   text-align: center;
 }
